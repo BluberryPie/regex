@@ -10,4 +10,4 @@
 
 **`/reg/g`**
 
-> A <U>**reg**</U>ular expression (shortened as <u>**reg**</u>ex or <u>**reg**</u>exp; sometimes referred to as rational expression) is a sequence of characters that specifies a search pattern in text.
+> A `reg`ular expression (shortened as <u>**reg**</u>ex or <u>**reg**</u>exp; sometimes referred to as rational expression) is a sequence of characters that specifies a search pattern in text.

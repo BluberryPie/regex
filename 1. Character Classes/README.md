@@ -10,6 +10,4 @@
 
 **`/reg/g`**
 
-<pre>
 A <mark>reg</mark>ular expression (shortened as <mark>reg</mark>ex or <mark>reg</mark>exp; sometimes referred to as rational expression) is a sequence of characters that specifies a search pattern in text.
-</pre>

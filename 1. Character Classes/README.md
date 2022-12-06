@@ -10,6 +10,10 @@
 
 **`/reg/g`**
 
+```
+A regular expression (shortened as regex or regexp; sometimes referred to as rational expression) is a sequence of characters that specifies a search pattern in text.
+```
+
 > A `reg`ular expression (shortened as `reg`ex or `reg`exp; sometimes referred to as rational expression) is a sequence of characters that specifies a search pattern in text.
 
 (예시 2.)
